@@ -1,2 +1,2 @@
 # Strategist
-website for my hope to make company made with HTML
+website for the company I hope to make, made with HTML and CSS
