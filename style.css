@@ -6,5 +6,5 @@ h1 {
   text-align: left;
 }
 p {
-  background-image: https://cdn.pixabay.com/photo/2017/02/01/14/34/seamless-2030347_960_720.jpg("backdrop.jpg");
+  background-image: "backdrop.jpg";
 }
